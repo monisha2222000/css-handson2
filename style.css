@@ -1,0 +1,131 @@
+.container{
+    border: 5px solid yellowgreen;
+    border-width: 5px;
+    border-style: groove;
+    border-color:yellowgreen;
+    border-radius: 0px;
+    background-image: url(./backg.jpeg);
+    background-size: 100px cover;
+    
+
+    
+
+    
+   }
+
+.box{
+    background-color: black;
+    border: solid red;
+    font-style: italic;
+    color: white;
+    border-radius: 20px;
+}
+
+.box1{
+    margin-left: 30px;
+    padding: 30px;
+    width: 300px;
+    font-size: larger;
+    margin: 10px;
+}
+
+.box2{
+    padding: 10px;
+    width: 300px;
+    font-size: larger;
+    margin: -100px 0px 0px 300px;  
+    
+}
+
+.box3{
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+    font-size: larger;
+    line-height: 10px;
+    margin: -50px 0px 0px 900px;  
+}
+
+.Ff{
+    border: 5px dotted rgb(0, 0, 255);
+    background-color: white;
+    color: rgb(47, 0, 255);
+    width: 400px;
+    padding: 30px;
+    margin: -1000px 500px 500px 600px;  
+    text-align: center;
+}
+
+.Cc{
+    padding: 30px;
+    width: 300px;
+    font-size: larger;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgba(0, 128, 0, 0.509);
+    color: white;
+    border: 5px solid rgba(128, 128, 128, 0.614);
+    text-align: center;
+    margin: 300px 100px 500px 100px;
+
+   
+}
+
+.Mm{
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    width: 300px;
+    font-size: larger;
+    margin: -400px 100px 100px 500px;  
+    border-radius: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+.parent3{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.boxs{
+    background-color: aqua;
+    border: solid green;
+    font-style: italic;
+    color: blue;
+    border-radius: 40px;
+    width: 400px;
+    margin: 10px;
+}
+
+.boxs1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.boxs2{
+    font-weight: bold;
+    text-align: center;
+}
+
+.boxs3{
+    
+    font-weight: bold;
+    text-align: center;
+}
+
+.boxs4{
+    font-weight: bold;
+    text-align: center;
+}
+
+.boxs5{
+    font-weight: bold;
+    text-align: center;
+}
+
+.boxs6{
+    font-weight: bold;
+    text-align: center;
+}
